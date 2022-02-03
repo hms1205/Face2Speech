@@ -36,3 +36,10 @@
 #### Conclusions
 ![predict](https://user-images.githubusercontent.com/67571328/152303429-b3a819aa-8e2d-4ff6-b1ca-07ff819db309.PNG)
 
+> We got an idea for the study of predicting a person's face through existing speech and applied the concept in reverse to conduct a new study on the formation of a person's
+> direct speech through a person's image. We used millions of natural videos that people talked about and solved the problem of simultaneous learning of images and speech by 
+> using the method of aligning the feature vector values of images obtained through the Spectrogram and VGGFace16 Model of speech obtained through STFT. We succeeded in 
+> predicting the expected feature value of the voice when the feature value of the image was input using the learned Encoder and Decoder Model. The image is the result of 
+> spectrogramming the voice feature value shown when a person's image is input using this learned model, and is compared to the actual voice spectrogram. However, as a result of > forcibly expanding the dimension of a small number of parameters through upsampling and rescape, it was found that there was a lot of data loss compared to the actual voice 
+> Spectrogram. This seems to require flexible dimension reduction and expansion according to the number of parameters, and this problem can be solved through a more precise CNN > design.
+> We have identified the possibility of predicting a person's voice through an image of a person's face, and we believe that if we solve the problem through future improvements, > our research can also be applied to applications such as Metaverse and Digital Human in new fields.
