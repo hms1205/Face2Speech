@@ -32,3 +32,7 @@
 > label, and the purpose of the learning is to make the 4096d vector of speech come out
 > when the face is put into this model for speech-face pair.
 > Key words : Deep Learning, CNN, VGGFace, STFT, Voxceleb
+
+#### Conclusions
+![predict](https://user-images.githubusercontent.com/67571328/152303429-b3a819aa-8e2d-4ff6-b1ca-07ff819db309.PNG)
+
