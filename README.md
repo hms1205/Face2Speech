@@ -1,11 +1,12 @@
 # Face2Speech
 
-#### Min Su Han (*)
-#### Kyu Seong Park
+#### Dongseo Univ. Graduation work
+> Min Su Han (*)
+> Kyu Seong Park
 
 #### Requirements
 
-* Python 3.5 or above
+* Python 3.7
 * Keras
 * TensorFlow
 * Librosa
