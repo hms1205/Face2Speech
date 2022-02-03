@@ -1,8 +1,9 @@
 # Face2Speech
 
 #### Dongseo Univ. Graduation work
-> Min Su Han (*)
-> Kyu Seong Park
+
+* Min Su Han (*)
+* Kyu Seong Park
 
 #### Requirements
 
@@ -14,6 +15,7 @@
 * opencv
 * Dlib
 
+#### Abstract
 > Human voice is strongly related to the person's facial bone structure, mouth shape, age,
 > and gender. We paid attention to the idea of a model that predicts a person's montage
 > through voice data using a model learned through deep learning and tried to apply it in
