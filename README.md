@@ -1,7 +1,7 @@
 # Face2Speech
 
-### Dongseo Univ. Graduation work
 ##### We refer to the existing Speech2Face papers.
+### Dongseo Univ. Graduation work
 
 * Min Su Han (*)
 * Kyu Seong Park
